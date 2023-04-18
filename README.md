@@ -114,9 +114,20 @@ df.head(10)
 # OUPUT:
 ![image](https://user-images.githubusercontent.com/120380280/232667837-7942ddce-557c-439e-9d92-d6db2f0c5175.png)
 ![image](https://user-images.githubusercontent.com/120380280/232667878-4ad9ac76-c1f7-4cfd-97fd-8437244b3f80.png)
-![image](https://user-images.githubusercontent.com/120380280/232667957-46aeb29a-62a5-41c3-8e27-01e192e66057.png)
 ![image](https://user-images.githubusercontent.com/120380280/232667979-a6306c14-189a-4031-a451-67a8bab42a97.png)
 # Feature Generation - data.csv
 ![image](https://user-images.githubusercontent.com/120380280/232668079-c1182d6a-0a18-492d-b4f8-c0dc81f33939.png)
+![image](https://user-images.githubusercontent.com/120380280/232668569-fee1dbbd-27a6-4590-8300-d4ced6e5c43d.png)
+![image](https://user-images.githubusercontent.com/120380280/232668603-f1ea1bbd-882d-4922-a0bc-0a563e30b7bb.png)
+![image](https://user-images.githubusercontent.com/120380280/232668631-1bede1ec-4b71-4e87-9eb9-d9ee12ca69a8.png)
+# Feature Generation - titanic_dataset.csv
+![image](https://user-images.githubusercontent.com/120380280/232668719-2e7fa230-ddf7-4cfe-a53a-22d02c66e1c2.png)
+![image](https://user-images.githubusercontent.com/120380280/232668753-733ec7f7-751b-47c3-9048-607ecdc05109.png)
+![image](https://user-images.githubusercontent.com/120380280/232668785-23eac213-0cff-4586-aba2-77ed9f4d4d1d.png)
+![image](https://user-images.githubusercontent.com/120380280/232668824-bbe37963-6a4f-4e6f-8e1a-6da6ff13dc5f.png)
+
+# RESULT:
+Thus the Feature Generation for the given datasets had been executed successfully
+
 
 
