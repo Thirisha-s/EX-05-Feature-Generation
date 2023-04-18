@@ -113,7 +113,6 @@ df.head(10)
 
 # OUPUT:
 ![image](https://user-images.githubusercontent.com/120380280/232667837-7942ddce-557c-439e-9d92-d6db2f0c5175.png)
-![image](https://user-images.githubusercontent.com/120380280/232667855-27022e2c-6073-4ecd-85bc-913733d1af37.png)
 ![image](https://user-images.githubusercontent.com/120380280/232667878-4ad9ac76-c1f7-4cfd-97fd-8437244b3f80.png)
 ![image](https://user-images.githubusercontent.com/120380280/232667957-46aeb29a-62a5-41c3-8e27-01e192e66057.png)
 ![image](https://user-images.githubusercontent.com/120380280/232667979-a6306c14-189a-4031-a451-67a8bab42a97.png)
